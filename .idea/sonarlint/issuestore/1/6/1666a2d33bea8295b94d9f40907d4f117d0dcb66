@@ -1,7 +1,0 @@
-
-‰	java:S112İ"FDefine and throw a dedicated exception instead of using a generic one.(îÕÊÌ8ıõìºñ1J$1ae9e387-2f3a-4c36-b407-483be9654d80
-§
-java:S1192¾"dDefine a constant instead of duplicating this literal "total_sales = EXCLUDED.total_sales " 3 times.(›Ãš8şõìºñ1J$9314389c-b056-4c74-988d-ee1868accb03
-„	java:S125§"<This block of commented-out lines of code should be removed.(Úø¬°úÿÿÿÿ8¤öìºñ1J$806192ba-0555-4f72-8e52-a74c2ef92fa3
-‚
-java:S1144¬">Remove this unused private "generateElasticSearchSink" method.(Õà§8³öìºñ1J$8b203d0b-10b1-4644-85ba-e35cf10c0951
